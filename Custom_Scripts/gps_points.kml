@@ -1,0 +1,3881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>GPS Point</name>
+            <Point id="2">
+                <coordinates>-71.08784,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>GPS Point</name>
+            <Point id="4">
+                <coordinates>-71.08784,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>GPS Point</name>
+            <Point id="6">
+                <coordinates>-71.08784,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>GPS Point</name>
+            <Point id="8">
+                <coordinates>-71.08784,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>GPS Point</name>
+            <Point id="10">
+                <coordinates>-71.08784,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>GPS Point</name>
+            <Point id="12">
+                <coordinates>-71.08784,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>GPS Point</name>
+            <Point id="14">
+                <coordinates>-71.08784,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>GPS Point</name>
+            <Point id="16">
+                <coordinates>-71.08784,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>GPS Point</name>
+            <Point id="18">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>GPS Point</name>
+            <Point id="20">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>GPS Point</name>
+            <Point id="22">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>GPS Point</name>
+            <Point id="24">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>GPS Point</name>
+            <Point id="26">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>GPS Point</name>
+            <Point id="28">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>GPS Point</name>
+            <Point id="30">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>GPS Point</name>
+            <Point id="32">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>GPS Point</name>
+            <Point id="34">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>GPS Point</name>
+            <Point id="36">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>GPS Point</name>
+            <Point id="38">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>GPS Point</name>
+            <Point id="40">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>GPS Point</name>
+            <Point id="42">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>GPS Point</name>
+            <Point id="44">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>GPS Point</name>
+            <Point id="46">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>GPS Point</name>
+            <Point id="48">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>GPS Point</name>
+            <Point id="50">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>GPS Point</name>
+            <Point id="52">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>GPS Point</name>
+            <Point id="54">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>GPS Point</name>
+            <Point id="56">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>GPS Point</name>
+            <Point id="58">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>GPS Point</name>
+            <Point id="60">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>GPS Point</name>
+            <Point id="62">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>GPS Point</name>
+            <Point id="64">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>GPS Point</name>
+            <Point id="66">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>GPS Point</name>
+            <Point id="68">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>GPS Point</name>
+            <Point id="70">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>GPS Point</name>
+            <Point id="72">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>GPS Point</name>
+            <Point id="74">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>GPS Point</name>
+            <Point id="76">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>GPS Point</name>
+            <Point id="78">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>GPS Point</name>
+            <Point id="80">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>GPS Point</name>
+            <Point id="82">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>GPS Point</name>
+            <Point id="84">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>GPS Point</name>
+            <Point id="86">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>GPS Point</name>
+            <Point id="88">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>GPS Point</name>
+            <Point id="90">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>GPS Point</name>
+            <Point id="92">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>GPS Point</name>
+            <Point id="94">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>GPS Point</name>
+            <Point id="96">
+                <coordinates>-71.08784533333333,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>GPS Point</name>
+            <Point id="98">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>GPS Point</name>
+            <Point id="100">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>GPS Point</name>
+            <Point id="102">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>GPS Point</name>
+            <Point id="104">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>GPS Point</name>
+            <Point id="106">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>GPS Point</name>
+            <Point id="108">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>GPS Point</name>
+            <Point id="110">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>GPS Point</name>
+            <Point id="112">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>GPS Point</name>
+            <Point id="114">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>GPS Point</name>
+            <Point id="116">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>GPS Point</name>
+            <Point id="118">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>GPS Point</name>
+            <Point id="120">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>GPS Point</name>
+            <Point id="122">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>GPS Point</name>
+            <Point id="124">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>GPS Point</name>
+            <Point id="126">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>GPS Point</name>
+            <Point id="128">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>GPS Point</name>
+            <Point id="130">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>GPS Point</name>
+            <Point id="132">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>GPS Point</name>
+            <Point id="134">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>GPS Point</name>
+            <Point id="136">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>GPS Point</name>
+            <Point id="138">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>GPS Point</name>
+            <Point id="140">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>GPS Point</name>
+            <Point id="142">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>GPS Point</name>
+            <Point id="144">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>GPS Point</name>
+            <Point id="146">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>GPS Point</name>
+            <Point id="148">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>GPS Point</name>
+            <Point id="150">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>GPS Point</name>
+            <Point id="152">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>GPS Point</name>
+            <Point id="154">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>GPS Point</name>
+            <Point id="156">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>GPS Point</name>
+            <Point id="158">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>GPS Point</name>
+            <Point id="160">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>GPS Point</name>
+            <Point id="162">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>GPS Point</name>
+            <Point id="164">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>GPS Point</name>
+            <Point id="166">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="169">
+            <name>GPS Point</name>
+            <Point id="168">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>GPS Point</name>
+            <Point id="170">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>GPS Point</name>
+            <Point id="172">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name>GPS Point</name>
+            <Point id="174">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>GPS Point</name>
+            <Point id="176">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <name>GPS Point</name>
+            <Point id="178">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>GPS Point</name>
+            <Point id="180">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>GPS Point</name>
+            <Point id="182">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name>GPS Point</name>
+            <Point id="184">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="187">
+            <name>GPS Point</name>
+            <Point id="186">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>GPS Point</name>
+            <Point id="188">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <name>GPS Point</name>
+            <Point id="190">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>GPS Point</name>
+            <Point id="192">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>GPS Point</name>
+            <Point id="194">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>GPS Point</name>
+            <Point id="196">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="199">
+            <name>GPS Point</name>
+            <Point id="198">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>GPS Point</name>
+            <Point id="200">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>GPS Point</name>
+            <Point id="202">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name>GPS Point</name>
+            <Point id="204">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>GPS Point</name>
+            <Point id="206">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="209">
+            <name>GPS Point</name>
+            <Point id="208">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="211">
+            <name>GPS Point</name>
+            <Point id="210">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>GPS Point</name>
+            <Point id="212">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <name>GPS Point</name>
+            <Point id="214">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="217">
+            <name>GPS Point</name>
+            <Point id="216">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>GPS Point</name>
+            <Point id="218">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <name>GPS Point</name>
+            <Point id="220">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>GPS Point</name>
+            <Point id="222">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>GPS Point</name>
+            <Point id="224">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>GPS Point</name>
+            <Point id="226">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="229">
+            <name>GPS Point</name>
+            <Point id="228">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>GPS Point</name>
+            <Point id="230">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>GPS Point</name>
+            <Point id="232">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="235">
+            <name>GPS Point</name>
+            <Point id="234">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="237">
+            <name>GPS Point</name>
+            <Point id="236">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="239">
+            <name>GPS Point</name>
+            <Point id="238">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="241">
+            <name>GPS Point</name>
+            <Point id="240">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>GPS Point</name>
+            <Point id="242">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="245">
+            <name>GPS Point</name>
+            <Point id="244">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="247">
+            <name>GPS Point</name>
+            <Point id="246">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="249">
+            <name>GPS Point</name>
+            <Point id="248">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="251">
+            <name>GPS Point</name>
+            <Point id="250">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="253">
+            <name>GPS Point</name>
+            <Point id="252">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="255">
+            <name>GPS Point</name>
+            <Point id="254">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="257">
+            <name>GPS Point</name>
+            <Point id="256">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="259">
+            <name>GPS Point</name>
+            <Point id="258">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="261">
+            <name>GPS Point</name>
+            <Point id="260">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="263">
+            <name>GPS Point</name>
+            <Point id="262">
+                <coordinates>-71.08785066666667,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="265">
+            <name>GPS Point</name>
+            <Point id="264">
+                <coordinates>-71.087856,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="267">
+            <name>GPS Point</name>
+            <Point id="266">
+                <coordinates>-71.087856,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="269">
+            <name>GPS Point</name>
+            <Point id="268">
+                <coordinates>-71.087856,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="271">
+            <name>GPS Point</name>
+            <Point id="270">
+                <coordinates>-71.087856,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name>GPS Point</name>
+            <Point id="272">
+                <coordinates>-71.087856,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="275">
+            <name>GPS Point</name>
+            <Point id="274">
+                <coordinates>-71.087856,42.33736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="277">
+            <name>GPS Point</name>
+            <Point id="276">
+                <coordinates>-71.087856,42.337362666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <name>GPS Point</name>
+            <Point id="278">
+                <coordinates>-71.08786133333334,42.337362666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="281">
+            <name>GPS Point</name>
+            <Point id="280">
+                <coordinates>-71.08786666666667,42.33736533333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="283">
+            <name>GPS Point</name>
+            <Point id="282">
+                <coordinates>-71.08787733333334,42.337370666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="285">
+            <name>GPS Point</name>
+            <Point id="284">
+                <coordinates>-71.08788266666667,42.337376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="287">
+            <name>GPS Point</name>
+            <Point id="286">
+                <coordinates>-71.087888,42.33738133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="289">
+            <name>GPS Point</name>
+            <Point id="288">
+                <coordinates>-71.08789866666666,42.337384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>GPS Point</name>
+            <Point id="290">
+                <coordinates>-71.08790933333333,42.337389333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="293">
+            <name>GPS Point</name>
+            <Point id="292">
+                <coordinates>-71.08792,42.337389333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="295">
+            <name>GPS Point</name>
+            <Point id="294">
+                <coordinates>-71.087936,42.337389333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="297">
+            <name>GPS Point</name>
+            <Point id="296">
+                <coordinates>-71.08794133333333,42.337389333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="299">
+            <name>GPS Point</name>
+            <Point id="298">
+                <coordinates>-71.087952,42.337384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="301">
+            <name>GPS Point</name>
+            <Point id="300">
+                <coordinates>-71.08795733333334,42.337384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="303">
+            <name>GPS Point</name>
+            <Point id="302">
+                <coordinates>-71.08795733333334,42.337384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="305">
+            <name>GPS Point</name>
+            <Point id="304">
+                <coordinates>-71.08795733333334,42.337384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="307">
+            <name>GPS Point</name>
+            <Point id="306">
+                <coordinates>-71.08795733333334,42.337384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="309">
+            <name>GPS Point</name>
+            <Point id="308">
+                <coordinates>-71.087952,42.33738666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="311">
+            <name>GPS Point</name>
+            <Point id="310">
+                <coordinates>-71.087936,42.337397333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="313">
+            <name>GPS Point</name>
+            <Point id="312">
+                <coordinates>-71.08792,42.33742133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="315">
+            <name>GPS Point</name>
+            <Point id="314">
+                <coordinates>-71.08790933333333,42.337448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="317">
+            <name>GPS Point</name>
+            <Point id="316">
+                <coordinates>-71.08789333333333,42.33748,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="319">
+            <name>GPS Point</name>
+            <Point id="318">
+                <coordinates>-71.087872,42.337512,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="321">
+            <name>GPS Point</name>
+            <Point id="320">
+                <coordinates>-71.08784,42.33754666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="323">
+            <name>GPS Point</name>
+            <Point id="322">
+                <coordinates>-71.08779733333333,42.33758133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="325">
+            <name>GPS Point</name>
+            <Point id="324">
+                <coordinates>-71.08774933333333,42.33762133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="327">
+            <name>GPS Point</name>
+            <Point id="326">
+                <coordinates>-71.08770133333333,42.33765866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="329">
+            <name>GPS Point</name>
+            <Point id="328">
+                <coordinates>-71.08765333333334,42.337701333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="331">
+            <name>GPS Point</name>
+            <Point id="330">
+                <coordinates>-71.08760533333333,42.337741333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="333">
+            <name>GPS Point</name>
+            <Point id="332">
+                <coordinates>-71.087552,42.33778133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="335">
+            <name>GPS Point</name>
+            <Point id="334">
+                <coordinates>-71.087504,42.33782133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="337">
+            <name>GPS Point</name>
+            <Point id="336">
+                <coordinates>-71.087456,42.337861333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="339">
+            <name>GPS Point</name>
+            <Point id="338">
+                <coordinates>-71.087408,42.33789866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="341">
+            <name>GPS Point</name>
+            <Point id="340">
+                <coordinates>-71.08736533333334,42.337936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="343">
+            <name>GPS Point</name>
+            <Point id="342">
+                <coordinates>-71.087328,42.337968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="345">
+            <name>GPS Point</name>
+            <Point id="344">
+                <coordinates>-71.087296,42.33799466666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="347">
+            <name>GPS Point</name>
+            <Point id="346">
+                <coordinates>-71.087264,42.338016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="349">
+            <name>GPS Point</name>
+            <Point id="348">
+                <coordinates>-71.087232,42.338032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="351">
+            <name>GPS Point</name>
+            <Point id="350">
+                <coordinates>-71.08718933333333,42.33804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="353">
+            <name>GPS Point</name>
+            <Point id="352">
+                <coordinates>-71.087136,42.33803733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="355">
+            <name>GPS Point</name>
+            <Point id="354">
+                <coordinates>-71.087072,42.33802133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="357">
+            <name>GPS Point</name>
+            <Point id="356">
+                <coordinates>-71.08700266666666,42.337992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="359">
+            <name>GPS Point</name>
+            <Point id="358">
+                <coordinates>-71.086944,42.33796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="361">
+            <name>GPS Point</name>
+            <Point id="360">
+                <coordinates>-71.08688533333333,42.337928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="363">
+            <name>GPS Point</name>
+            <Point id="362">
+                <coordinates>-71.086832,42.33789866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="365">
+            <name>GPS Point</name>
+            <Point id="364">
+                <coordinates>-71.08677866666666,42.33786933333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="367">
+            <name>GPS Point</name>
+            <Point id="366">
+                <coordinates>-71.08673066666667,42.33783733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="369">
+            <name>GPS Point</name>
+            <Point id="368">
+                <coordinates>-71.08668266666666,42.337808,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="371">
+            <name>GPS Point</name>
+            <Point id="370">
+                <coordinates>-71.08662933333333,42.337778666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="373">
+            <name>GPS Point</name>
+            <Point id="372">
+                <coordinates>-71.086576,42.337744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="375">
+            <name>GPS Point</name>
+            <Point id="374">
+                <coordinates>-71.086528,42.337712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="377">
+            <name>GPS Point</name>
+            <Point id="376">
+                <coordinates>-71.08648,42.33768,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="379">
+            <name>GPS Point</name>
+            <Point id="378">
+                <coordinates>-71.08644266666667,42.33765066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="381">
+            <name>GPS Point</name>
+            <Point id="380">
+                <coordinates>-71.08641066666667,42.33762133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="383">
+            <name>GPS Point</name>
+            <Point id="382">
+                <coordinates>-71.086384,42.337597333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="385">
+            <name>GPS Point</name>
+            <Point id="384">
+                <coordinates>-71.086368,42.337584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="387">
+            <name>GPS Point</name>
+            <Point id="386">
+                <coordinates>-71.086352,42.337568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="389">
+            <name>GPS Point</name>
+            <Point id="388">
+                <coordinates>-71.086336,42.337552,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="391">
+            <name>GPS Point</name>
+            <Point id="390">
+                <coordinates>-71.08632,42.337536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="393">
+            <name>GPS Point</name>
+            <Point id="392">
+                <coordinates>-71.086304,42.337522666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="395">
+            <name>GPS Point</name>
+            <Point id="394">
+                <coordinates>-71.08629866666666,42.33750933333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="397">
+            <name>GPS Point</name>
+            <Point id="396">
+                <coordinates>-71.086288,42.33749866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="399">
+            <name>GPS Point</name>
+            <Point id="398">
+                <coordinates>-71.08628266666666,42.33748533333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="401">
+            <name>GPS Point</name>
+            <Point id="400">
+                <coordinates>-71.08626666666666,42.337474666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="403">
+            <name>GPS Point</name>
+            <Point id="402">
+                <coordinates>-71.08625066666667,42.337464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="405">
+            <name>GPS Point</name>
+            <Point id="404">
+                <coordinates>-71.086224,42.337456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="407">
+            <name>GPS Point</name>
+            <Point id="406">
+                <coordinates>-71.08618666666666,42.33745866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="409">
+            <name>GPS Point</name>
+            <Point id="408">
+                <coordinates>-71.086144,42.337472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="411">
+            <name>GPS Point</name>
+            <Point id="410">
+                <coordinates>-71.08609066666666,42.33749866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="413">
+            <name>GPS Point</name>
+            <Point id="412">
+                <coordinates>-71.08604266666667,42.337530666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="415">
+            <name>GPS Point</name>
+            <Point id="414">
+                <coordinates>-71.08599466666666,42.33756266666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="417">
+            <name>GPS Point</name>
+            <Point id="416">
+                <coordinates>-71.08595733333334,42.337592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="419">
+            <name>GPS Point</name>
+            <Point id="418">
+                <coordinates>-71.08591466666667,42.337616,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="421">
+            <name>GPS Point</name>
+            <Point id="420">
+                <coordinates>-71.08588266666666,42.337632,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="423">
+            <name>GPS Point</name>
+            <Point id="422">
+                <coordinates>-71.08584533333334,42.337645333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="425">
+            <name>GPS Point</name>
+            <Point id="424">
+                <coordinates>-71.08580266666667,42.33765066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="427">
+            <name>GPS Point</name>
+            <Point id="426">
+                <coordinates>-71.08575466666667,42.337648,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="429">
+            <name>GPS Point</name>
+            <Point id="428">
+                <coordinates>-71.085712,42.337634666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="431">
+            <name>GPS Point</name>
+            <Point id="430">
+                <coordinates>-71.085664,42.33761066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="433">
+            <name>GPS Point</name>
+            <Point id="432">
+                <coordinates>-71.08562133333334,42.337578666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="435">
+            <name>GPS Point</name>
+            <Point id="434">
+                <coordinates>-71.08557866666666,42.337541333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="437">
+            <name>GPS Point</name>
+            <Point id="436">
+                <coordinates>-71.08553066666667,42.33749866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="439">
+            <name>GPS Point</name>
+            <Point id="438">
+                <coordinates>-71.08548266666666,42.33745866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="441">
+            <name>GPS Point</name>
+            <Point id="440">
+                <coordinates>-71.08543466666667,42.337418666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="443">
+            <name>GPS Point</name>
+            <Point id="442">
+                <coordinates>-71.08538666666666,42.337378666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="445">
+            <name>GPS Point</name>
+            <Point id="444">
+                <coordinates>-71.08533333333334,42.33733866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="447">
+            <name>GPS Point</name>
+            <Point id="446">
+                <coordinates>-71.08528533333333,42.337296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="449">
+            <name>GPS Point</name>
+            <Point id="448">
+                <coordinates>-71.08523733333334,42.33725066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="451">
+            <name>GPS Point</name>
+            <Point id="450">
+                <coordinates>-71.08519466666667,42.337210666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="453">
+            <name>GPS Point</name>
+            <Point id="452">
+                <coordinates>-71.085152,42.337170666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="455">
+            <name>GPS Point</name>
+            <Point id="454">
+                <coordinates>-71.08510933333334,42.33713066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="457">
+            <name>GPS Point</name>
+            <Point id="456">
+                <coordinates>-71.085072,42.33709066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="459">
+            <name>GPS Point</name>
+            <Point id="458">
+                <coordinates>-71.08504,42.33706133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="461">
+            <name>GPS Point</name>
+            <Point id="460">
+                <coordinates>-71.08501333333334,42.337029333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="463">
+            <name>GPS Point</name>
+            <Point id="462">
+                <coordinates>-71.08499733333333,42.337010666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="465">
+            <name>GPS Point</name>
+            <Point id="464">
+                <coordinates>-71.08498666666667,42.336997333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="467">
+            <name>GPS Point</name>
+            <Point id="466">
+                <coordinates>-71.08498133333333,42.336992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="469">
+            <name>GPS Point</name>
+            <Point id="468">
+                <coordinates>-71.08498133333333,42.336992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="471">
+            <name>GPS Point</name>
+            <Point id="470">
+                <coordinates>-71.08498133333333,42.336992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="473">
+            <name>GPS Point</name>
+            <Point id="472">
+                <coordinates>-71.08498133333333,42.336992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="475">
+            <name>GPS Point</name>
+            <Point id="474">
+                <coordinates>-71.08498133333333,42.336992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="477">
+            <name>GPS Point</name>
+            <Point id="476">
+                <coordinates>-71.08498133333333,42.336992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="479">
+            <name>GPS Point</name>
+            <Point id="478">
+                <coordinates>-71.08498133333333,42.336992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="481">
+            <name>GPS Point</name>
+            <Point id="480">
+                <coordinates>-71.08498133333333,42.336992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="483">
+            <name>GPS Point</name>
+            <Point id="482">
+                <coordinates>-71.08498133333333,42.336992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="485">
+            <name>GPS Point</name>
+            <Point id="484">
+                <coordinates>-71.084976,42.33698666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="487">
+            <name>GPS Point</name>
+            <Point id="486">
+                <coordinates>-71.08497066666666,42.336976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="489">
+            <name>GPS Point</name>
+            <Point id="488">
+                <coordinates>-71.08495466666666,42.336954666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="491">
+            <name>GPS Point</name>
+            <Point id="490">
+                <coordinates>-71.08494933333333,42.33692533333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="493">
+            <name>GPS Point</name>
+            <Point id="492">
+                <coordinates>-71.08496533333333,42.336893333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="495">
+            <name>GPS Point</name>
+            <Point id="494">
+                <coordinates>-71.08499733333333,42.336864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="497">
+            <name>GPS Point</name>
+            <Point id="496">
+                <coordinates>-71.08504,42.336837333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="499">
+            <name>GPS Point</name>
+            <Point id="498">
+                <coordinates>-71.08509333333333,42.336810666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="501">
+            <name>GPS Point</name>
+            <Point id="500">
+                <coordinates>-71.08514666666666,42.336781333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="503">
+            <name>GPS Point</name>
+            <Point id="502">
+                <coordinates>-71.0852,42.336752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="505">
+            <name>GPS Point</name>
+            <Point id="504">
+                <coordinates>-71.085248,42.336725333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="507">
+            <name>GPS Point</name>
+            <Point id="506">
+                <coordinates>-71.08529066666667,42.33670133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="509">
+            <name>GPS Point</name>
+            <Point id="508">
+                <coordinates>-71.085328,42.33668266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="511">
+            <name>GPS Point</name>
+            <Point id="510">
+                <coordinates>-71.08537066666666,42.33666933333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="513">
+            <name>GPS Point</name>
+            <Point id="512">
+                <coordinates>-71.08540266666667,42.336664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="515">
+            <name>GPS Point</name>
+            <Point id="514">
+                <coordinates>-71.08543466666667,42.336664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="517">
+            <name>GPS Point</name>
+            <Point id="516">
+                <coordinates>-71.08546133333333,42.336677333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="519">
+            <name>GPS Point</name>
+            <Point id="518">
+                <coordinates>-71.085488,42.33669866666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="521">
+            <name>GPS Point</name>
+            <Point id="520">
+                <coordinates>-71.08552,42.33673066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="523">
+            <name>GPS Point</name>
+            <Point id="522">
+                <coordinates>-71.08555733333333,42.33676533333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="525">
+            <name>GPS Point</name>
+            <Point id="524">
+                <coordinates>-71.08559466666667,42.336802666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="527">
+            <name>GPS Point</name>
+            <Point id="526">
+                <coordinates>-71.08563733333334,42.336848,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="529">
+            <name>GPS Point</name>
+            <Point id="528">
+                <coordinates>-71.08568533333333,42.33689066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="531">
+            <name>GPS Point</name>
+            <Point id="530">
+                <coordinates>-71.085728,42.336936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="533">
+            <name>GPS Point</name>
+            <Point id="532">
+                <coordinates>-71.085776,42.336981333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="535">
+            <name>GPS Point</name>
+            <Point id="534">
+                <coordinates>-71.08581866666667,42.337024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="537">
+            <name>GPS Point</name>
+            <Point id="536">
+                <coordinates>-71.08586133333333,42.33706933333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="539">
+            <name>GPS Point</name>
+            <Point id="538">
+                <coordinates>-71.085904,42.337114666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="541">
+            <name>GPS Point</name>
+            <Point id="540">
+                <coordinates>-71.08594666666667,42.33715733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="543">
+            <name>GPS Point</name>
+            <Point id="542">
+                <coordinates>-71.085984,42.33719466666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="545">
+            <name>GPS Point</name>
+            <Point id="544">
+                <coordinates>-71.086016,42.337226666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="547">
+            <name>GPS Point</name>
+            <Point id="546">
+                <coordinates>-71.086048,42.337256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="549">
+            <name>GPS Point</name>
+            <Point id="548">
+                <coordinates>-71.08608,42.33728266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="551">
+            <name>GPS Point</name>
+            <Point id="550">
+                <coordinates>-71.086096,42.337301333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="553">
+            <name>GPS Point</name>
+            <Point id="552">
+                <coordinates>-71.08610666666667,42.337314666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="555">
+            <name>GPS Point</name>
+            <Point id="554">
+                <coordinates>-71.08612266666667,42.337330666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="557">
+            <name>GPS Point</name>
+            <Point id="556">
+                <coordinates>-71.08613333333334,42.33735466666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="559">
+            <name>GPS Point</name>
+            <Point id="558">
+                <coordinates>-71.08613866666667,42.33738133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="561">
+            <name>GPS Point</name>
+            <Point id="560">
+                <coordinates>-71.086128,42.33741066666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="563">
+            <name>GPS Point</name>
+            <Point id="562">
+                <coordinates>-71.08610133333333,42.33744266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="565">
+            <name>GPS Point</name>
+            <Point id="564">
+                <coordinates>-71.08605866666667,42.337472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="567">
+            <name>GPS Point</name>
+            <Point id="566">
+                <coordinates>-71.08600533333333,42.337504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="569">
+            <name>GPS Point</name>
+            <Point id="568">
+                <coordinates>-71.08594666666667,42.337541333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="571">
+            <name>GPS Point</name>
+            <Point id="570">
+                <coordinates>-71.08588266666666,42.337578666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="573">
+            <name>GPS Point</name>
+            <Point id="572">
+                <coordinates>-71.085824,42.33762133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="575">
+            <name>GPS Point</name>
+            <Point id="574">
+                <coordinates>-71.08575466666667,42.337666666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="577">
+            <name>GPS Point</name>
+            <Point id="576">
+                <coordinates>-71.08569066666666,42.337712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="579">
+            <name>GPS Point</name>
+            <Point id="578">
+                <coordinates>-71.08562133333334,42.337757333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="581">
+            <name>GPS Point</name>
+            <Point id="580">
+                <coordinates>-71.085552,42.33780266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="583">
+            <name>GPS Point</name>
+            <Point id="582">
+                <coordinates>-71.08548266666666,42.337845333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="585">
+            <name>GPS Point</name>
+            <Point id="584">
+                <coordinates>-71.08540266666667,42.33789066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="587">
+            <name>GPS Point</name>
+            <Point id="586">
+                <coordinates>-71.085328,42.337938666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="589">
+            <name>GPS Point</name>
+            <Point id="588">
+                <coordinates>-71.08525333333333,42.337984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="591">
+            <name>GPS Point</name>
+            <Point id="590">
+                <coordinates>-71.085184,42.338024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="593">
+            <name>GPS Point</name>
+            <Point id="592">
+                <coordinates>-71.08512,42.33806666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="595">
+            <name>GPS Point</name>
+            <Point id="594">
+                <coordinates>-71.08506666666666,42.338101333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="597">
+            <name>GPS Point</name>
+            <Point id="596">
+                <coordinates>-71.08501333333334,42.33813333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="599">
+            <name>GPS Point</name>
+            <Point id="598">
+                <coordinates>-71.084976,42.338157333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="601">
+            <name>GPS Point</name>
+            <Point id="600">
+                <coordinates>-71.084944,42.33818133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="603">
+            <name>GPS Point</name>
+            <Point id="602">
+                <coordinates>-71.08490666666667,42.3382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="605">
+            <name>GPS Point</name>
+            <Point id="604">
+                <coordinates>-71.08487466666666,42.33821866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="607">
+            <name>GPS Point</name>
+            <Point id="606">
+                <coordinates>-71.08483733333334,42.338242666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="609">
+            <name>GPS Point</name>
+            <Point id="608">
+                <coordinates>-71.0848,42.33826666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="611">
+            <name>GPS Point</name>
+            <Point id="610">
+                <coordinates>-71.08475733333333,42.33829333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="613">
+            <name>GPS Point</name>
+            <Point id="612">
+                <coordinates>-71.084704,42.33832533333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="615">
+            <name>GPS Point</name>
+            <Point id="614">
+                <coordinates>-71.08465066666666,42.33836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="617">
+            <name>GPS Point</name>
+            <Point id="616">
+                <coordinates>-71.08458666666667,42.33839733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="619">
+            <name>GPS Point</name>
+            <Point id="618">
+                <coordinates>-71.08452266666667,42.33843733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="621">
+            <name>GPS Point</name>
+            <Point id="620">
+                <coordinates>-71.08445866666666,42.33847733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="623">
+            <name>GPS Point</name>
+            <Point id="622">
+                <coordinates>-71.08439466666667,42.338517333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="625">
+            <name>GPS Point</name>
+            <Point id="624">
+                <coordinates>-71.08432,42.33856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="627">
+            <name>GPS Point</name>
+            <Point id="626">
+                <coordinates>-71.08425066666666,42.33860266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="629">
+            <name>GPS Point</name>
+            <Point id="628">
+                <coordinates>-71.08417066666667,42.338648,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="631">
+            <name>GPS Point</name>
+            <Point id="630">
+                <coordinates>-71.084096,42.338696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="633">
+            <name>GPS Point</name>
+            <Point id="632">
+                <coordinates>-71.08402666666667,42.338744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="635">
+            <name>GPS Point</name>
+            <Point id="634">
+                <coordinates>-71.083952,42.33879733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="637">
+            <name>GPS Point</name>
+            <Point id="636">
+                <coordinates>-71.08388266666667,42.338850666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="639">
+            <name>GPS Point</name>
+            <Point id="638">
+                <coordinates>-71.08381333333334,42.338904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="641">
+            <name>GPS Point</name>
+            <Point id="640">
+                <coordinates>-71.08374933333333,42.338952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="643">
+            <name>GPS Point</name>
+            <Point id="642">
+                <coordinates>-71.083696,42.338994666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="645">
+            <name>GPS Point</name>
+            <Point id="644">
+                <coordinates>-71.08364266666666,42.33903466666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="647">
+            <name>GPS Point</name>
+            <Point id="646">
+                <coordinates>-71.0836,42.339069333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="649">
+            <name>GPS Point</name>
+            <Point id="648">
+                <coordinates>-71.08355733333333,42.339104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="651">
+            <name>GPS Point</name>
+            <Point id="650">
+                <coordinates>-71.08350933333334,42.33913866666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="653">
+            <name>GPS Point</name>
+            <Point id="652">
+                <coordinates>-71.08346133333333,42.339176,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="655">
+            <name>GPS Point</name>
+            <Point id="654">
+                <coordinates>-71.083408,42.339216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="657">
+            <name>GPS Point</name>
+            <Point id="656">
+                <coordinates>-71.083344,42.339264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="659">
+            <name>GPS Point</name>
+            <Point id="658">
+                <coordinates>-71.08327466666667,42.33931466666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="661">
+            <name>GPS Point</name>
+            <Point id="660">
+                <coordinates>-71.08319466666667,42.33937066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="663">
+            <name>GPS Point</name>
+            <Point id="662">
+                <coordinates>-71.08312,42.33943466666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="665">
+            <name>GPS Point</name>
+            <Point id="664">
+                <coordinates>-71.08303466666666,42.339496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="667">
+            <name>GPS Point</name>
+            <Point id="666">
+                <coordinates>-71.08295466666667,42.339562666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="669">
+            <name>GPS Point</name>
+            <Point id="668">
+                <coordinates>-71.08286933333333,42.339629333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="671">
+            <name>GPS Point</name>
+            <Point id="670">
+                <coordinates>-71.08278933333334,42.33969333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="673">
+            <name>GPS Point</name>
+            <Point id="672">
+                <coordinates>-71.08270933333333,42.33975733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="675">
+            <name>GPS Point</name>
+            <Point id="674">
+                <coordinates>-71.08262933333333,42.33982133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="677">
+            <name>GPS Point</name>
+            <Point id="676">
+                <coordinates>-71.08254933333333,42.33988266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="679">
+            <name>GPS Point</name>
+            <Point id="678">
+                <coordinates>-71.08247466666667,42.339941333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="681">
+            <name>GPS Point</name>
+            <Point id="680">
+                <coordinates>-71.0824,42.34000266666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="683">
+            <name>GPS Point</name>
+            <Point id="682">
+                <coordinates>-71.08232533333333,42.340058666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="685">
+            <name>GPS Point</name>
+            <Point id="684">
+                <coordinates>-71.082256,42.340112,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="687">
+            <name>GPS Point</name>
+            <Point id="686">
+                <coordinates>-71.082192,42.340162666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="689">
+            <name>GPS Point</name>
+            <Point id="688">
+                <coordinates>-71.08213866666667,42.34020533333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="691">
+            <name>GPS Point</name>
+            <Point id="690">
+                <coordinates>-71.082096,42.34024266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="693">
+            <name>GPS Point</name>
+            <Point id="692">
+                <coordinates>-71.082064,42.34026933333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="695">
+            <name>GPS Point</name>
+            <Point id="694">
+                <coordinates>-71.082048,42.34028266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="697">
+            <name>GPS Point</name>
+            <Point id="696">
+                <coordinates>-71.082048,42.340285333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="699">
+            <name>GPS Point</name>
+            <Point id="698">
+                <coordinates>-71.082048,42.340288,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="701">
+            <name>GPS Point</name>
+            <Point id="700">
+                <coordinates>-71.082048,42.340288,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="703">
+            <name>GPS Point</name>
+            <Point id="702">
+                <coordinates>-71.082048,42.340288,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="705">
+            <name>GPS Point</name>
+            <Point id="704">
+                <coordinates>-71.082048,42.340288,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="707">
+            <name>GPS Point</name>
+            <Point id="706">
+                <coordinates>-71.082048,42.34029066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="709">
+            <name>GPS Point</name>
+            <Point id="708">
+                <coordinates>-71.082048,42.34029066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="711">
+            <name>GPS Point</name>
+            <Point id="710">
+                <coordinates>-71.082048,42.34029066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="713">
+            <name>GPS Point</name>
+            <Point id="712">
+                <coordinates>-71.082048,42.34029066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="715">
+            <name>GPS Point</name>
+            <Point id="714">
+                <coordinates>-71.082048,42.34029066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="717">
+            <name>GPS Point</name>
+            <Point id="716">
+                <coordinates>-71.082048,42.34029066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="719">
+            <name>GPS Point</name>
+            <Point id="718">
+                <coordinates>-71.082048,42.34029066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="721">
+            <name>GPS Point</name>
+            <Point id="720">
+                <coordinates>-71.082048,42.34029066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="723">
+            <name>GPS Point</name>
+            <Point id="722">
+                <coordinates>-71.082048,42.34029066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="725">
+            <name>GPS Point</name>
+            <Point id="724">
+                <coordinates>-71.082048,42.34029066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="727">
+            <name>GPS Point</name>
+            <Point id="726">
+                <coordinates>-71.082048,42.34029066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="729">
+            <name>GPS Point</name>
+            <Point id="728">
+                <coordinates>-71.08205333333333,42.34029066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="731">
+            <name>GPS Point</name>
+            <Point id="730">
+                <coordinates>-71.08205333333333,42.34029066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="733">
+            <name>GPS Point</name>
+            <Point id="732">
+                <coordinates>-71.08205333333333,42.340293333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="735">
+            <name>GPS Point</name>
+            <Point id="734">
+                <coordinates>-71.08205333333333,42.340293333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="737">
+            <name>GPS Point</name>
+            <Point id="736">
+                <coordinates>-71.08205333333333,42.340293333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="739">
+            <name>GPS Point</name>
+            <Point id="738">
+                <coordinates>-71.08205333333333,42.340293333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="741">
+            <name>GPS Point</name>
+            <Point id="740">
+                <coordinates>-71.08205333333333,42.340293333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="743">
+            <name>GPS Point</name>
+            <Point id="742">
+                <coordinates>-71.08205333333333,42.340293333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="745">
+            <name>GPS Point</name>
+            <Point id="744">
+                <coordinates>-71.08205333333333,42.340293333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="747">
+            <name>GPS Point</name>
+            <Point id="746">
+                <coordinates>-71.08205333333333,42.340293333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="749">
+            <name>GPS Point</name>
+            <Point id="748">
+                <coordinates>-71.08205333333333,42.340293333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="751">
+            <name>GPS Point</name>
+            <Point id="750">
+                <coordinates>-71.08205333333333,42.340293333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="753">
+            <name>GPS Point</name>
+            <Point id="752">
+                <coordinates>-71.08205333333333,42.340296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="755">
+            <name>GPS Point</name>
+            <Point id="754">
+                <coordinates>-71.08205333333333,42.340296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="757">
+            <name>GPS Point</name>
+            <Point id="756">
+                <coordinates>-71.08205333333333,42.340296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="759">
+            <name>GPS Point</name>
+            <Point id="758">
+                <coordinates>-71.08205333333333,42.340296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="761">
+            <name>GPS Point</name>
+            <Point id="760">
+                <coordinates>-71.08205333333333,42.340296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="763">
+            <name>GPS Point</name>
+            <Point id="762">
+                <coordinates>-71.08205333333333,42.340296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="765">
+            <name>GPS Point</name>
+            <Point id="764">
+                <coordinates>-71.08205333333333,42.340296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="767">
+            <name>GPS Point</name>
+            <Point id="766">
+                <coordinates>-71.08205333333333,42.340296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="769">
+            <name>GPS Point</name>
+            <Point id="768">
+                <coordinates>-71.08205333333333,42.340296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="771">
+            <name>GPS Point</name>
+            <Point id="770">
+                <coordinates>-71.08205333333333,42.340296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="773">
+            <name>GPS Point</name>
+            <Point id="772">
+                <coordinates>-71.08205333333333,42.340296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="775">
+            <name>GPS Point</name>
+            <Point id="774">
+                <coordinates>-71.08205333333333,42.340296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="777">
+            <name>GPS Point</name>
+            <Point id="776">
+                <coordinates>-71.08205333333333,42.340296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="779">
+            <name>GPS Point</name>
+            <Point id="778">
+                <coordinates>-71.08205333333333,42.340296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="781">
+            <name>GPS Point</name>
+            <Point id="780">
+                <coordinates>-71.08205333333333,42.340296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="783">
+            <name>GPS Point</name>
+            <Point id="782">
+                <coordinates>-71.08205333333333,42.340296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="785">
+            <name>GPS Point</name>
+            <Point id="784">
+                <coordinates>-71.08203733333333,42.34030666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="787">
+            <name>GPS Point</name>
+            <Point id="786">
+                <coordinates>-71.082016,42.34032533333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="789">
+            <name>GPS Point</name>
+            <Point id="788">
+                <coordinates>-71.081984,42.340352,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="791">
+            <name>GPS Point</name>
+            <Point id="790">
+                <coordinates>-71.08194666666667,42.34038133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="793">
+            <name>GPS Point</name>
+            <Point id="792">
+                <coordinates>-71.08190933333333,42.34041333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="795">
+            <name>GPS Point</name>
+            <Point id="794">
+                <coordinates>-71.08186666666667,42.34044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="797">
+            <name>GPS Point</name>
+            <Point id="796">
+                <coordinates>-71.08182933333333,42.34045866666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="799">
+            <name>GPS Point</name>
+            <Point id="798">
+                <coordinates>-71.08178666666667,42.340474666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="801">
+            <name>GPS Point</name>
+            <Point id="800">
+                <coordinates>-71.08173866666667,42.340474666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="803">
+            <name>GPS Point</name>
+            <Point id="802">
+                <coordinates>-71.08168533333334,42.340456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="805">
+            <name>GPS Point</name>
+            <Point id="804">
+                <coordinates>-71.081632,42.340424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="807">
+            <name>GPS Point</name>
+            <Point id="806">
+                <coordinates>-71.08157866666667,42.34038133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="809">
+            <name>GPS Point</name>
+            <Point id="808">
+                <coordinates>-71.08152,42.340336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="811">
+            <name>GPS Point</name>
+            <Point id="810">
+                <coordinates>-71.081456,42.34028266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="813">
+            <name>GPS Point</name>
+            <Point id="812">
+                <coordinates>-71.081392,42.340224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="815">
+            <name>GPS Point</name>
+            <Point id="814">
+                <coordinates>-71.081328,42.34016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="817">
+            <name>GPS Point</name>
+            <Point id="816">
+                <coordinates>-71.08125866666667,42.340096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="819">
+            <name>GPS Point</name>
+            <Point id="818">
+                <coordinates>-71.08118933333333,42.340029333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="821">
+            <name>GPS Point</name>
+            <Point id="820">
+                <coordinates>-71.08113066666667,42.33996533333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="823">
+            <name>GPS Point</name>
+            <Point id="822">
+                <coordinates>-71.08106666666667,42.33990133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="825">
+            <name>GPS Point</name>
+            <Point id="824">
+                <coordinates>-71.081008,42.33984266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="827">
+            <name>GPS Point</name>
+            <Point id="826">
+                <coordinates>-71.08096,42.339789333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="829">
+            <name>GPS Point</name>
+            <Point id="828">
+                <coordinates>-71.08090666666666,42.339741333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="831">
+            <name>GPS Point</name>
+            <Point id="830">
+                <coordinates>-71.080864,42.339696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="833">
+            <name>GPS Point</name>
+            <Point id="832">
+                <coordinates>-71.08082133333333,42.339656,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="835">
+            <name>GPS Point</name>
+            <Point id="834">
+                <coordinates>-71.080784,42.33962133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="837">
+            <name>GPS Point</name>
+            <Point id="836">
+                <coordinates>-71.080752,42.33958666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="839">
+            <name>GPS Point</name>
+            <Point id="838">
+                <coordinates>-71.08072533333333,42.33955733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="841">
+            <name>GPS Point</name>
+            <Point id="840">
+                <coordinates>-71.080704,42.339536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="843">
+            <name>GPS Point</name>
+            <Point id="842">
+                <coordinates>-71.080688,42.33952266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="845">
+            <name>GPS Point</name>
+            <Point id="844">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="847">
+            <name>GPS Point</name>
+            <Point id="846">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="849">
+            <name>GPS Point</name>
+            <Point id="848">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="851">
+            <name>GPS Point</name>
+            <Point id="850">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="853">
+            <name>GPS Point</name>
+            <Point id="852">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="855">
+            <name>GPS Point</name>
+            <Point id="854">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="857">
+            <name>GPS Point</name>
+            <Point id="856">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="859">
+            <name>GPS Point</name>
+            <Point id="858">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="861">
+            <name>GPS Point</name>
+            <Point id="860">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="863">
+            <name>GPS Point</name>
+            <Point id="862">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="865">
+            <name>GPS Point</name>
+            <Point id="864">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="867">
+            <name>GPS Point</name>
+            <Point id="866">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="869">
+            <name>GPS Point</name>
+            <Point id="868">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="871">
+            <name>GPS Point</name>
+            <Point id="870">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="873">
+            <name>GPS Point</name>
+            <Point id="872">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="875">
+            <name>GPS Point</name>
+            <Point id="874">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="877">
+            <name>GPS Point</name>
+            <Point id="876">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="879">
+            <name>GPS Point</name>
+            <Point id="878">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="881">
+            <name>GPS Point</name>
+            <Point id="880">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="883">
+            <name>GPS Point</name>
+            <Point id="882">
+                <coordinates>-71.08068266666666,42.33951733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="885">
+            <name>GPS Point</name>
+            <Point id="884">
+                <coordinates>-71.080672,42.339506666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="887">
+            <name>GPS Point</name>
+            <Point id="886">
+                <coordinates>-71.080656,42.33949066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="889">
+            <name>GPS Point</name>
+            <Point id="888">
+                <coordinates>-71.08063466666667,42.339469333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="891">
+            <name>GPS Point</name>
+            <Point id="890">
+                <coordinates>-71.08061333333333,42.33944533333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="893">
+            <name>GPS Point</name>
+            <Point id="892">
+                <coordinates>-71.080592,42.339424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="895">
+            <name>GPS Point</name>
+            <Point id="894">
+                <coordinates>-71.08056533333334,42.33939733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="897">
+            <name>GPS Point</name>
+            <Point id="896">
+                <coordinates>-71.080544,42.339376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="899">
+            <name>GPS Point</name>
+            <Point id="898">
+                <coordinates>-71.08053333333334,42.339362666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="901">
+            <name>GPS Point</name>
+            <Point id="900">
+                <coordinates>-71.080528,42.33935733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="903">
+            <name>GPS Point</name>
+            <Point id="902">
+                <coordinates>-71.080528,42.33935733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="905">
+            <name>GPS Point</name>
+            <Point id="904">
+                <coordinates>-71.080528,42.33935733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="907">
+            <name>GPS Point</name>
+            <Point id="906">
+                <coordinates>-71.080528,42.33935733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="909">
+            <name>GPS Point</name>
+            <Point id="908">
+                <coordinates>-71.080528,42.33935733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="911">
+            <name>GPS Point</name>
+            <Point id="910">
+                <coordinates>-71.080528,42.33935733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="913">
+            <name>GPS Point</name>
+            <Point id="912">
+                <coordinates>-71.080528,42.33935733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="915">
+            <name>GPS Point</name>
+            <Point id="914">
+                <coordinates>-71.080528,42.33935733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="917">
+            <name>GPS Point</name>
+            <Point id="916">
+                <coordinates>-71.080528,42.33935733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="919">
+            <name>GPS Point</name>
+            <Point id="918">
+                <coordinates>-71.08052266666667,42.339354666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="921">
+            <name>GPS Point</name>
+            <Point id="920">
+                <coordinates>-71.08051733333333,42.339344,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="923">
+            <name>GPS Point</name>
+            <Point id="922">
+                <coordinates>-71.080512,42.339328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="925">
+            <name>GPS Point</name>
+            <Point id="924">
+                <coordinates>-71.08050133333333,42.339304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="927">
+            <name>GPS Point</name>
+            <Point id="926">
+                <coordinates>-71.080512,42.339277333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="929">
+            <name>GPS Point</name>
+            <Point id="928">
+                <coordinates>-71.08053866666667,42.339250666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="931">
+            <name>GPS Point</name>
+            <Point id="930">
+                <coordinates>-71.08058133333333,42.339221333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="933">
+            <name>GPS Point</name>
+            <Point id="932">
+                <coordinates>-71.08064,42.339192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="935">
+            <name>GPS Point</name>
+            <Point id="934">
+                <coordinates>-71.080704,42.33915733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="937">
+            <name>GPS Point</name>
+            <Point id="936">
+                <coordinates>-71.080768,42.33912266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="939">
+            <name>GPS Point</name>
+            <Point id="938">
+                <coordinates>-71.08082666666667,42.339088,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="941">
+            <name>GPS Point</name>
+            <Point id="940">
+                <coordinates>-71.08088,42.339058666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="943">
+            <name>GPS Point</name>
+            <Point id="942">
+                <coordinates>-71.08092266666667,42.33903466666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="945">
+            <name>GPS Point</name>
+            <Point id="944">
+                <coordinates>-71.08095466666667,42.339016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="947">
+            <name>GPS Point</name>
+            <Point id="946">
+                <coordinates>-71.080976,42.339002666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="949">
+            <name>GPS Point</name>
+            <Point id="948">
+                <coordinates>-71.08099733333333,42.338992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="951">
+            <name>GPS Point</name>
+            <Point id="950">
+                <coordinates>-71.08101333333333,42.338984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="953">
+            <name>GPS Point</name>
+            <Point id="952">
+                <coordinates>-71.08104,42.33897066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="955">
+            <name>GPS Point</name>
+            <Point id="954">
+                <coordinates>-71.08107733333334,42.33894933333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="957">
+            <name>GPS Point</name>
+            <Point id="956">
+                <coordinates>-71.08112533333333,42.33892266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="959">
+            <name>GPS Point</name>
+            <Point id="958">
+                <coordinates>-71.081184,42.338890666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="961">
+            <name>GPS Point</name>
+            <Point id="960">
+                <coordinates>-71.08125333333334,42.338850666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="963">
+            <name>GPS Point</name>
+            <Point id="962">
+                <coordinates>-71.08133333333333,42.33880533333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="965">
+            <name>GPS Point</name>
+            <Point id="964">
+                <coordinates>-71.081424,42.338757333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="967">
+            <name>GPS Point</name>
+            <Point id="966">
+                <coordinates>-71.081504,42.338709333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="969">
+            <name>GPS Point</name>
+            <Point id="968">
+                <coordinates>-71.08158933333333,42.338664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="971">
+            <name>GPS Point</name>
+            <Point id="970">
+                <coordinates>-71.08166933333334,42.33861866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="973">
+            <name>GPS Point</name>
+            <Point id="972">
+                <coordinates>-71.08175466666667,42.33857066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="975">
+            <name>GPS Point</name>
+            <Point id="974">
+                <coordinates>-71.08183466666667,42.33852533333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="977">
+            <name>GPS Point</name>
+            <Point id="976">
+                <coordinates>-71.08192533333333,42.33847733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="979">
+            <name>GPS Point</name>
+            <Point id="978">
+                <coordinates>-71.082016,42.33842933333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="981">
+            <name>GPS Point</name>
+            <Point id="980">
+                <coordinates>-71.08210666666666,42.338378666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="983">
+            <name>GPS Point</name>
+            <Point id="982">
+                <coordinates>-71.08220266666666,42.33832533333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="985">
+            <name>GPS Point</name>
+            <Point id="984">
+                <coordinates>-71.08229866666667,42.33827466666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="987">
+            <name>GPS Point</name>
+            <Point id="986">
+                <coordinates>-71.08238933333334,42.33822133333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="989">
+            <name>GPS Point</name>
+            <Point id="988">
+                <coordinates>-71.08249066666667,42.33817066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="991">
+            <name>GPS Point</name>
+            <Point id="990">
+                <coordinates>-71.082592,42.33811733333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="993">
+            <name>GPS Point</name>
+            <Point id="992">
+                <coordinates>-71.082688,42.338064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="995">
+            <name>GPS Point</name>
+            <Point id="994">
+                <coordinates>-71.082784,42.33801066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="997">
+            <name>GPS Point</name>
+            <Point id="996">
+                <coordinates>-71.08288,42.33796266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="999">
+            <name>GPS Point</name>
+            <Point id="998">
+                <coordinates>-71.08297066666667,42.337912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1001">
+            <name>GPS Point</name>
+            <Point id="1000">
+                <coordinates>-71.083056,42.337861333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1003">
+            <name>GPS Point</name>
+            <Point id="1002">
+                <coordinates>-71.083136,42.337816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1005">
+            <name>GPS Point</name>
+            <Point id="1004">
+                <coordinates>-71.08321066666667,42.337776,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1007">
+            <name>GPS Point</name>
+            <Point id="1006">
+                <coordinates>-71.08328,42.337736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1009">
+            <name>GPS Point</name>
+            <Point id="1008">
+                <coordinates>-71.08334933333333,42.337696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1011">
+            <name>GPS Point</name>
+            <Point id="1010">
+                <coordinates>-71.083408,42.33766133333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1013">
+            <name>GPS Point</name>
+            <Point id="1012">
+                <coordinates>-71.08346666666667,42.33762933333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1015">
+            <name>GPS Point</name>
+            <Point id="1014">
+                <coordinates>-71.08351466666667,42.337605333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1017">
+            <name>GPS Point</name>
+            <Point id="1016">
+                <coordinates>-71.08354666666666,42.337584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1019">
+            <name>GPS Point</name>
+            <Point id="1018">
+                <coordinates>-71.08357333333333,42.337570666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1021">
+            <name>GPS Point</name>
+            <Point id="1020">
+                <coordinates>-71.083584,42.337568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1023">
+            <name>GPS Point</name>
+            <Point id="1022">
+                <coordinates>-71.083584,42.33756533333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1025">
+            <name>GPS Point</name>
+            <Point id="1024">
+                <coordinates>-71.083584,42.33756266666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1027">
+            <name>GPS Point</name>
+            <Point id="1026">
+                <coordinates>-71.0836,42.337557333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1029">
+            <name>GPS Point</name>
+            <Point id="1028">
+                <coordinates>-71.08362133333334,42.33754666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1031">
+            <name>GPS Point</name>
+            <Point id="1030">
+                <coordinates>-71.083648,42.337530666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1033">
+            <name>GPS Point</name>
+            <Point id="1032">
+                <coordinates>-71.08369066666667,42.337514666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1035">
+            <name>GPS Point</name>
+            <Point id="1034">
+                <coordinates>-71.08371733333334,42.337501333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1037">
+            <name>GPS Point</name>
+            <Point id="1036">
+                <coordinates>-71.08372266666667,42.337496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1039">
+            <name>GPS Point</name>
+            <Point id="1038">
+                <coordinates>-71.083728,42.337496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1041">
+            <name>GPS Point</name>
+            <Point id="1040">
+                <coordinates>-71.08373866666666,42.337488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1043">
+            <name>GPS Point</name>
+            <Point id="1042">
+                <coordinates>-71.08374933333333,42.337482666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1045">
+            <name>GPS Point</name>
+            <Point id="1044">
+                <coordinates>-71.083776,42.337474666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1047">
+            <name>GPS Point</name>
+            <Point id="1046">
+                <coordinates>-71.08381866666667,42.337464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1049">
+            <name>GPS Point</name>
+            <Point id="1048">
+                <coordinates>-71.08386666666667,42.33744266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1051">
+            <name>GPS Point</name>
+            <Point id="1050">
+                <coordinates>-71.08392533333334,42.33741066666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1053">
+            <name>GPS Point</name>
+            <Point id="1052">
+                <coordinates>-71.083984,42.337370666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1055">
+            <name>GPS Point</name>
+            <Point id="1054">
+                <coordinates>-71.084048,42.337330666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1057">
+            <name>GPS Point</name>
+            <Point id="1056">
+                <coordinates>-71.08412266666667,42.337285333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1059">
+            <name>GPS Point</name>
+            <Point id="1058">
+                <coordinates>-71.08420266666667,42.33724266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1061">
+            <name>GPS Point</name>
+            <Point id="1060">
+                <coordinates>-71.08427733333333,42.337197333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1063">
+            <name>GPS Point</name>
+            <Point id="1062">
+                <coordinates>-71.08436266666666,42.337152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1065">
+            <name>GPS Point</name>
+            <Point id="1064">
+                <coordinates>-71.08445333333333,42.337104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1067">
+            <name>GPS Point</name>
+            <Point id="1066">
+                <coordinates>-71.08453333333334,42.337058666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1069">
+            <name>GPS Point</name>
+            <Point id="1068">
+                <coordinates>-71.08461866666667,42.337010666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1071">
+            <name>GPS Point</name>
+            <Point id="1070">
+                <coordinates>-71.08469333333333,42.336968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1073">
+            <name>GPS Point</name>
+            <Point id="1072">
+                <coordinates>-71.084768,42.336928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1075">
+            <name>GPS Point</name>
+            <Point id="1074">
+                <coordinates>-71.08484266666666,42.336885333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1077">
+            <name>GPS Point</name>
+            <Point id="1076">
+                <coordinates>-71.084912,42.336848,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1079">
+            <name>GPS Point</name>
+            <Point id="1078">
+                <coordinates>-71.08498666666667,42.33680533333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1081">
+            <name>GPS Point</name>
+            <Point id="1080">
+                <coordinates>-71.085056,42.336768,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1083">
+            <name>GPS Point</name>
+            <Point id="1082">
+                <coordinates>-71.08513066666667,42.336725333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1085">
+            <name>GPS Point</name>
+            <Point id="1084">
+                <coordinates>-71.08519466666667,42.33669066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1087">
+            <name>GPS Point</name>
+            <Point id="1086">
+                <coordinates>-71.08525333333333,42.33666133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1089">
+            <name>GPS Point</name>
+            <Point id="1088">
+                <coordinates>-71.08530133333333,42.336637333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1091">
+            <name>GPS Point</name>
+            <Point id="1090">
+                <coordinates>-71.08534933333334,42.336624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1093">
+            <name>GPS Point</name>
+            <Point id="1092">
+                <coordinates>-71.085392,42.336624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1095">
+            <name>GPS Point</name>
+            <Point id="1094">
+                <coordinates>-71.08543466666667,42.33663466666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1097">
+            <name>GPS Point</name>
+            <Point id="1096">
+                <coordinates>-71.085472,42.336664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1099">
+            <name>GPS Point</name>
+            <Point id="1098">
+                <coordinates>-71.08550933333333,42.336704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1101">
+            <name>GPS Point</name>
+            <Point id="1100">
+                <coordinates>-71.08555733333333,42.33674933333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1103">
+            <name>GPS Point</name>
+            <Point id="1102">
+                <coordinates>-71.08560533333333,42.33679733333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1105">
+            <name>GPS Point</name>
+            <Point id="1104">
+                <coordinates>-71.08565333333334,42.336848,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1107">
+            <name>GPS Point</name>
+            <Point id="1106">
+                <coordinates>-71.08570133333333,42.33689066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1109">
+            <name>GPS Point</name>
+            <Point id="1108">
+                <coordinates>-71.08573866666667,42.33693066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1111">
+            <name>GPS Point</name>
+            <Point id="1110">
+                <coordinates>-71.08578133333333,42.336976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1113">
+            <name>GPS Point</name>
+            <Point id="1112">
+                <coordinates>-71.08582933333334,42.337018666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1115">
+            <name>GPS Point</name>
+            <Point id="1114">
+                <coordinates>-71.085872,42.337064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1117">
+            <name>GPS Point</name>
+            <Point id="1116">
+                <coordinates>-71.08591466666667,42.33710933333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1119">
+            <name>GPS Point</name>
+            <Point id="1118">
+                <coordinates>-71.08595733333334,42.337149333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1121">
+            <name>GPS Point</name>
+            <Point id="1120">
+                <coordinates>-71.08599466666666,42.337184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1123">
+            <name>GPS Point</name>
+            <Point id="1122">
+                <coordinates>-71.08602133333333,42.337216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1125">
+            <name>GPS Point</name>
+            <Point id="1124">
+                <coordinates>-71.08604266666667,42.337237333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1127">
+            <name>GPS Point</name>
+            <Point id="1126">
+                <coordinates>-71.086064,42.337256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1129">
+            <name>GPS Point</name>
+            <Point id="1128">
+                <coordinates>-71.08607466666666,42.337266666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1131">
+            <name>GPS Point</name>
+            <Point id="1130">
+                <coordinates>-71.08608533333333,42.33728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1133">
+            <name>GPS Point</name>
+            <Point id="1132">
+                <coordinates>-71.086096,42.33729866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1135">
+            <name>GPS Point</name>
+            <Point id="1134">
+                <coordinates>-71.08610666666667,42.337314666666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1137">
+            <name>GPS Point</name>
+            <Point id="1136">
+                <coordinates>-71.086112,42.337330666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1139">
+            <name>GPS Point</name>
+            <Point id="1138">
+                <coordinates>-71.08611733333333,42.33734666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1141">
+            <name>GPS Point</name>
+            <Point id="1140">
+                <coordinates>-71.08612266666667,42.33737333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1143">
+            <name>GPS Point</name>
+            <Point id="1142">
+                <coordinates>-71.08613333333334,42.33741066666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1145">
+            <name>GPS Point</name>
+            <Point id="1144">
+                <coordinates>-71.086144,42.337448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1147">
+            <name>GPS Point</name>
+            <Point id="1146">
+                <coordinates>-71.08616533333333,42.33748,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1149">
+            <name>GPS Point</name>
+            <Point id="1148">
+                <coordinates>-71.08618666666666,42.33750933333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1151">
+            <name>GPS Point</name>
+            <Point id="1150">
+                <coordinates>-71.08621866666667,42.337536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1153">
+            <name>GPS Point</name>
+            <Point id="1152">
+                <coordinates>-71.08625066666667,42.337568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1155">
+            <name>GPS Point</name>
+            <Point id="1154">
+                <coordinates>-71.086288,42.337597333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1157">
+            <name>GPS Point</name>
+            <Point id="1156">
+                <coordinates>-71.08632533333333,42.33762133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1159">
+            <name>GPS Point</name>
+            <Point id="1158">
+                <coordinates>-71.08636266666667,42.337648,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1161">
+            <name>GPS Point</name>
+            <Point id="1160">
+                <coordinates>-71.08639466666666,42.33766933333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1163">
+            <name>GPS Point</name>
+            <Point id="1162">
+                <coordinates>-71.086432,42.33769066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1165">
+            <name>GPS Point</name>
+            <Point id="1164">
+                <coordinates>-71.08646933333333,42.33771466666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1167">
+            <name>GPS Point</name>
+            <Point id="1166">
+                <coordinates>-71.086512,42.33773866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1169">
+            <name>GPS Point</name>
+            <Point id="1168">
+                <coordinates>-71.08655466666667,42.33776533333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1171">
+            <name>GPS Point</name>
+            <Point id="1170">
+                <coordinates>-71.08660266666666,42.33779466666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1173">
+            <name>GPS Point</name>
+            <Point id="1172">
+                <coordinates>-71.086656,42.337824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1175">
+            <name>GPS Point</name>
+            <Point id="1174">
+                <coordinates>-71.086704,42.337856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1177">
+            <name>GPS Point</name>
+            <Point id="1176">
+                <coordinates>-71.08675733333334,42.33789066666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1179">
+            <name>GPS Point</name>
+            <Point id="1178">
+                <coordinates>-71.086816,42.33792533333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1181">
+            <name>GPS Point</name>
+            <Point id="1180">
+                <coordinates>-71.08686933333334,42.33796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1183">
+            <name>GPS Point</name>
+            <Point id="1182">
+                <coordinates>-71.08692266666667,42.337992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1185">
+            <name>GPS Point</name>
+            <Point id="1184">
+                <coordinates>-71.08696533333334,42.338016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1187">
+            <name>GPS Point</name>
+            <Point id="1186">
+                <coordinates>-71.08701333333333,42.338032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1189">
+            <name>GPS Point</name>
+            <Point id="1188">
+                <coordinates>-71.08706133333334,42.338032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1191">
+            <name>GPS Point</name>
+            <Point id="1190">
+                <coordinates>-71.087104,42.338016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1193">
+            <name>GPS Point</name>
+            <Point id="1192">
+                <coordinates>-71.087152,42.33798933333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1195">
+            <name>GPS Point</name>
+            <Point id="1194">
+                <coordinates>-71.08719466666666,42.337957333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1197">
+            <name>GPS Point</name>
+            <Point id="1196">
+                <coordinates>-71.08724266666667,42.33791733333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1199">
+            <name>GPS Point</name>
+            <Point id="1198">
+                <coordinates>-71.08729066666666,42.33788,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1201">
+            <name>GPS Point</name>
+            <Point id="1200">
+                <coordinates>-71.087344,42.33784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1203">
+            <name>GPS Point</name>
+            <Point id="1202">
+                <coordinates>-71.08739733333333,42.3378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1205">
+            <name>GPS Point</name>
+            <Point id="1204">
+                <coordinates>-71.087456,42.337757333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1207">
+            <name>GPS Point</name>
+            <Point id="1206">
+                <coordinates>-71.08751466666666,42.337712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1209">
+            <name>GPS Point</name>
+            <Point id="1208">
+                <coordinates>-71.08757333333334,42.33766933333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1211">
+            <name>GPS Point</name>
+            <Point id="1210">
+                <coordinates>-71.087632,42.337626666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1213">
+            <name>GPS Point</name>
+            <Point id="1212">
+                <coordinates>-71.08768533333334,42.337584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1215">
+            <name>GPS Point</name>
+            <Point id="1214">
+                <coordinates>-71.08773333333333,42.337544,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1217">
+            <name>GPS Point</name>
+            <Point id="1216">
+                <coordinates>-71.087776,42.33750933333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1219">
+            <name>GPS Point</name>
+            <Point id="1218">
+                <coordinates>-71.087808,42.337482666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1221">
+            <name>GPS Point</name>
+            <Point id="1220">
+                <coordinates>-71.08782933333333,42.337453333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1223">
+            <name>GPS Point</name>
+            <Point id="1222">
+                <coordinates>-71.08784,42.337426666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1225">
+            <name>GPS Point</name>
+            <Point id="1224">
+                <coordinates>-71.08784,42.33740266666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1227">
+            <name>GPS Point</name>
+            <Point id="1226">
+                <coordinates>-71.08783466666667,42.337384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1229">
+            <name>GPS Point</name>
+            <Point id="1228">
+                <coordinates>-71.08781866666666,42.33736533333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1231">
+            <name>GPS Point</name>
+            <Point id="1230">
+                <coordinates>-71.08780266666666,42.33735466666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1233">
+            <name>GPS Point</name>
+            <Point id="1232">
+                <coordinates>-71.08778666666667,42.337344,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1235">
+            <name>GPS Point</name>
+            <Point id="1234">
+                <coordinates>-71.087776,42.337336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1237">
+            <name>GPS Point</name>
+            <Point id="1236">
+                <coordinates>-71.08777066666667,42.337330666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1239">
+            <name>GPS Point</name>
+            <Point id="1238">
+                <coordinates>-71.08777066666667,42.337330666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1241">
+            <name>GPS Point</name>
+            <Point id="1240">
+                <coordinates>-71.087776,42.337330666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1243">
+            <name>GPS Point</name>
+            <Point id="1242">
+                <coordinates>-71.087776,42.33733333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1245">
+            <name>GPS Point</name>
+            <Point id="1244">
+                <coordinates>-71.087776,42.33733333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1247">
+            <name>GPS Point</name>
+            <Point id="1246">
+                <coordinates>-71.08778133333334,42.33733333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1249">
+            <name>GPS Point</name>
+            <Point id="1248">
+                <coordinates>-71.08778133333334,42.337336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1251">
+            <name>GPS Point</name>
+            <Point id="1250">
+                <coordinates>-71.08778133333334,42.337336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1253">
+            <name>GPS Point</name>
+            <Point id="1252">
+                <coordinates>-71.08778666666667,42.337336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1255">
+            <name>GPS Point</name>
+            <Point id="1254">
+                <coordinates>-71.08778666666667,42.337336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1257">
+            <name>GPS Point</name>
+            <Point id="1256">
+                <coordinates>-71.08778666666667,42.337336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1259">
+            <name>GPS Point</name>
+            <Point id="1258">
+                <coordinates>-71.08778666666667,42.337336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1261">
+            <name>GPS Point</name>
+            <Point id="1260">
+                <coordinates>-71.087792,42.337336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1263">
+            <name>GPS Point</name>
+            <Point id="1262">
+                <coordinates>-71.087792,42.337336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1265">
+            <name>GPS Point</name>
+            <Point id="1264">
+                <coordinates>-71.087792,42.33733866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1267">
+            <name>GPS Point</name>
+            <Point id="1266">
+                <coordinates>-71.087792,42.33733866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1269">
+            <name>GPS Point</name>
+            <Point id="1268">
+                <coordinates>-71.08779733333333,42.33733866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1271">
+            <name>GPS Point</name>
+            <Point id="1270">
+                <coordinates>-71.08779733333333,42.33733866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1273">
+            <name>GPS Point</name>
+            <Point id="1272">
+                <coordinates>-71.08779733333333,42.33733866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1275">
+            <name>GPS Point</name>
+            <Point id="1274">
+                <coordinates>-71.08779733333333,42.33733866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1277">
+            <name>GPS Point</name>
+            <Point id="1276">
+                <coordinates>-71.08779733333333,42.33733866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1279">
+            <name>GPS Point</name>
+            <Point id="1278">
+                <coordinates>-71.08779733333333,42.33733866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1281">
+            <name>GPS Point</name>
+            <Point id="1280">
+                <coordinates>-71.08780266666666,42.33733866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1283">
+            <name>GPS Point</name>
+            <Point id="1282">
+                <coordinates>-71.08780266666666,42.33733866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1285">
+            <name>GPS Point</name>
+            <Point id="1284">
+                <coordinates>-71.08780266666666,42.33733866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1287">
+            <name>GPS Point</name>
+            <Point id="1286">
+                <coordinates>-71.08780266666666,42.33733866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1289">
+            <name>GPS Point</name>
+            <Point id="1288">
+                <coordinates>-71.08780266666666,42.33733866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1291">
+            <name>GPS Point</name>
+            <Point id="1290">
+                <coordinates>-71.087808,42.33733866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1293">
+            <name>GPS Point</name>
+            <Point id="1292">
+                <coordinates>-71.087808,42.33733866666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
