@@ -35,7 +35,7 @@ Although the results obtained from FAST-LIO were good, there was a small issue. 
   FAST-LIO didn't have loop-closure incorporated into it. 
 </li>
 <br>
-Hence, we made use of FAST-LIO LC. It is an open-source repository that has loop-closure incorporated in it. The results we obtained using FAST-LIO LC, although not perfect, were much better as compared to FAST-LIO. 
+Hence, we made use of FAST-LIO LC. It is an open-source repository that has loop-closure incorporated in it. The results we obtained using FAST-LIO LC (LC stands for Loop Closure), although not perfect, were much better as compared to FAST-LIO. 
 
 ### The Custom_Scripts Folder
 Included in this repository is a Custom_Scripts folder used to plot the the gps data from NUANCE onto a satelite map image covering the area data was collected. We have provided a brief description of what each script's function purpose is: 
