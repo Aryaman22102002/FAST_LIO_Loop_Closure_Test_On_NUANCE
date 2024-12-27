@@ -61,6 +61,8 @@ This script manually plots all of the gps points ontop of a satelite map image i
 - [LIO-SAM Paper](https://ieeexplore.ieee.org/document/9341176)
 - [FAST-LIO LC GitHub Repository](https://github.com/yanliang-wang/FAST_LIO_LC)
 - [Lidar_IMU_Init GitHub Repository](https://github.com/hku-mars/LiDAR_IMU_Init)
+- [Ouster 3D Lidar (OS1-64)](https://ouster.com/products/hardware/os1-lidar-sensor)
+- [VectorNav (VN-100)](https://www.vectornav.com/products/detail/vn-100?gad_source=1&gclid=Cj0KCQiAvbm7BhC5ARIsAFjwNHtOLTARRgGoQqxnmDnCm_him159HgGpT47umxcHkcfibyVM3LRE4SEaAhwYEALw_wcB)
 
 
 ### Acknowledgements
