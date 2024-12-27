@@ -13,7 +13,7 @@ We collected data using the NUANCE autonomous car of Northeastern University. We
 ![vn-100-rugged](https://github.com/user-attachments/assets/3fca4701-d916-4213-abe7-6406af15cab0)
 
 ##### NUANCE autonomous car
- <br> <br>
+ <Insert image of NUANCE>
 
 We drove around Boston for about 10 minutes to collect the data. While collecting the data, we ensured that we had some loop closures in our path so that we could use them later. The exact path followed by us is provided below. <br>
 
