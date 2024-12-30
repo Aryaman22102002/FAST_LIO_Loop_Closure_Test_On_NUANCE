@@ -38,7 +38,7 @@ Hence, we made use of FAST-LIO LC. It is an open-source repository that has loop
 ## Results
 
 
-### The Custom_Scripts Folder
+## The Custom_Scripts Folder
 Included in this repository is a Custom_Scripts folder used to plot the the gps data from NUANCE onto a satelite map image covering the area data was collected. We have provided a brief description of what each script's function purpose is: 
 
 #### gps_to_csv.py
@@ -54,7 +54,7 @@ This script manually plots all of the gps points ontop of a satelite map image i
 This script manually plots all of the gps points ontop of a satelite map image in UTM coordinates, scaled local to the image.
 
 
-### References
+## References
 
 - [FAST-LIO GitHub Repository](https://github.com/hku-mars/FAST_LIO)
 - [FAST-LIO Paper](https://ieeexplore.ieee.org/document/9372856)
@@ -66,13 +66,13 @@ This script manually plots all of the gps points ontop of a satelite map image i
 - [VectorNav (VN-100)](https://www.vectornav.com/products/detail/vn-100?gad_source=1&gclid=Cj0KCQiAvbm7BhC5ARIsAFjwNHtOLTARRgGoQqxnmDnCm_him159HgGpT47umxcHkcfibyVM3LRE4SEaAhwYEALw_wcB)
 
 
-### Acknowledgements
+## Acknowledgements
 
 We would like to specially thank our course instructor Prof. Hanumant Singh as well as our course teaching assistants Vishnu Rohit Annadanam and Jasen Levoy who helped us immensely not only while doing this project but throught the course. They were great at teaching, managing the course, and were always available and enthusiastic to solve our doubts. <br><br>
 We would also like to thank Northeastern University for providing us with the NUANCE autonomous car so that we could collect our data. 
 
 
-### Contributors
+## Contributors
 
 - [Aryaman Shardul](https://github.com/Aryaman22102002)
 - [Jaykumar Goswami]()
@@ -80,7 +80,7 @@ We would also like to thank Northeastern University for providing us with the NU
 - [Rongxuan Zhou](https://github.com/Rongxuan-Zhou)
 
 
-### Contact
+## Contact
 
 - Aryaman Shardul - lnu.arya@northeastern.edu
 - Jaykumar Goswami - goswami.j@northeastern.edu
