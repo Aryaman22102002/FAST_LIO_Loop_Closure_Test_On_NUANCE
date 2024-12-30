@@ -3,7 +3,7 @@
 This was our final project for the EECE 5554 (Robotics Sensing and Navigation) course at Northeastern University. <br>
 
 
-### Data Collection
+## Data Collection
 We collected data using the NUANCE autonomous car of Northeastern University. We utilized the Ouster 3D Lidar (OS1-64), the VectorNav IMU (VN-100), and the GPS sensors of the car. <br>
 
 #### The uster 3D Lidar (OS1-64)
@@ -20,7 +20,7 @@ We drove around Boston for about 10 minutes to collect the data. While collectin
 This is the link to our dataset  - https://drive.google.com/drive/folders/1GNqsowswBNSMr-d3rEnTFEqyhZRcBWLL?usp=sharing <br>
 
 
-### Aim of the project
+## Aim of the project
 The aim of our project was to compare the data we recorded on the FAST-LIO and LIO-SAM algorithms and compare those algorithms on the basis of loop-closure. <br>
 
 We started off by running those algorithms on some existing datasets. After that, we tried to run them on our own dataset. We generated good results for FAST-LIO but couldn't run it on LIO-SAM due to some challenges that have been highlighted in detail in our project presentation. <br>
