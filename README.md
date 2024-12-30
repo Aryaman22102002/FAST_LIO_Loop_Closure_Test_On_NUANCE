@@ -65,7 +65,7 @@ This script manually plots all of the gps points ontop of a satelite map image i
 
 ### Acknowledgements
 
-We would like to specially thank our course instructor Prof. Hanumant Singh as well as our course teaching assistants Vishnu Rohit Annadanam and Jasen Levoy who helped us immensely not only while doing this project but throught the course. They were great at teaching, managing the course, and were always available and enthusiastic to solve our doubts. <br>
+We would like to specially thank our course instructor Prof. Hanumant Singh as well as our course teaching assistants Vishnu Rohit Annadanam and Jasen Levoy who helped us immensely not only while doing this project but throught the course. They were great at teaching, managing the course, and were always available and enthusiastic to solve our doubts. <br><br>
 We would also like to thank Northeastern University for providing us with the NUANCE autonomous car so that we could collect our data. 
 
 
