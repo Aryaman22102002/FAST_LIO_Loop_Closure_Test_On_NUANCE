@@ -11,7 +11,7 @@ We collected data using the NUANCE autonomous car of Northeastern University. We
 #### The VectorNav IMU (VN-100)
 
 #### NUANCE autonomous car
- <Insert image of NUANCE>
+<Insert image of NUANCE>
 
 We drove around Boston for about 10 minutes to collect the data. While collecting the data, we ensured that we had some loop closures in our path so that we could use them later. The exact path followed by us is provided below. <br>
 
@@ -34,6 +34,9 @@ Although the results obtained from FAST-LIO were good, there was a small issue. 
 </li>
 <br>
 Hence, we made use of FAST-LIO LC. It is an open-source repository that has loop-closure incorporated in it. The results we obtained using FAST-LIO LC (LC stands for Loop Closure), although not perfect, were much better as compared to FAST-LIO. 
+
+### Results
+
 
 ### The Custom_Scripts Folder
 Included in this repository is a Custom_Scripts folder used to plot the the gps data from NUANCE onto a satelite map image covering the area data was collected. We have provided a brief description of what each script's function purpose is: 
