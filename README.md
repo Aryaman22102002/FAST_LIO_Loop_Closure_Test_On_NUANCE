@@ -6,9 +6,9 @@ This was our final project for the EECE 5554 (Robotics Sensing and Navigation) c
 ### Data Collection
 We collected data using the NUANCE autonomous car of Northeastern University. We utilized the Ouster 3D Lidar (OS1-64), the VectorNav IMU (VN-100), and the GPS sensors of the car. <br>
 
-##### The uster 3D Lidar (OS1-64)
+#### The uster 3D Lidar (OS1-64)
 
-##### The VectorNav IMU (VN-100)
+#### The VectorNav IMU (VN-100)
 
 ##### NUANCE autonomous car
  <Insert image of NUANCE>
@@ -38,16 +38,16 @@ Hence, we made use of FAST-LIO LC. It is an open-source repository that has loop
 ### The Custom_Scripts Folder
 Included in this repository is a Custom_Scripts folder used to plot the the gps data from NUANCE onto a satelite map image covering the area data was collected. We have provided a brief description of what each script's function purpose is: 
 
-##### gps_to_csv.py
+#### gps_to_csv.py
 This script runs through the bag file and extracts the gps data into a csv file (output.csv) for further processing.
 
-##### gps_kml.py
+#### gps_kml.py
 This script creates a kml file (gps_points.kml) file that can be uploaded to https://kmlviewer.nsspot.net that will automatically show all points onto Google Maps.
 
-##### gps_plot.py
+#### gps_plot.py
 This script manually plots all of the gps points ontop of a satelite map image in longitude and latitude.
 
-##### gps_plot_utm.py
+#### gps_plot_utm.py
 This script manually plots all of the gps points ontop of a satelite map image in UTM coordinates, scaled local to the image.
 
 
