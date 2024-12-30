@@ -10,7 +10,7 @@ We collected data using the NUANCE autonomous car of Northeastern University. We
 
 #### The VectorNav IMU (VN-100)
 
-#### NUANCE autonomous car
+#### The NUANCE autonomous car
 <Insert image of NUANCE>
 
 We drove around Boston for about 10 minutes to collect the data. While collecting the data, we ensured that we had some loop closures in our path so that we could use them later. The exact path followed by us is provided below. <br>
