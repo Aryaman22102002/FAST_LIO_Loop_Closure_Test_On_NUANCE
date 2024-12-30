@@ -35,7 +35,7 @@ Although the results obtained from FAST-LIO were good, there was a small issue. 
 <br>
 Hence, we made use of FAST-LIO LC. It is an open-source repository that has loop-closure incorporated in it. The results we obtained using FAST-LIO LC (LC stands for Loop Closure), although not perfect, were much better as compared to FAST-LIO. 
 
-### Results
+## Results
 
 
 ### The Custom_Scripts Folder
