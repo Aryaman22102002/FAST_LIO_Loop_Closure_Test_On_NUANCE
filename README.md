@@ -22,14 +22,14 @@ We collected data using the NUANCE autonomous car of Northeastern University. We
 <Insert image of NUANCE>
 
 <p align="center">
-  <img width="300" src="https://github.com/user-attachments/assets/eced6f9f-d56f-4292-8195-7232eff80e6d">
+  <img src="https://github.com/user-attachments/assets/eced6f9f-d56f-4292-8195-7232eff80e6d">
 </p>
 
 
 We drove around Boston for about 10 minutes to collect the data. While collecting the data, we ensured that we had some loop closures in our path so that we could use them later. The exact path followed by us is provided below. <br>
 
 <p align="center">
-  <img width="300" src="https://github.com/user-attachments/assets/7334b614-dba1-47e6-b06e-b0116fc04d0a">
+  <img width="500" src="https://github.com/user-attachments/assets/7334b614-dba1-47e6-b06e-b0116fc04d0a">
 </p>
 
 This is the link to our dataset  - https://drive.google.com/drive/folders/1GNqsowswBNSMr-d3rEnTFEqyhZRcBWLL?usp=sharing <br>
