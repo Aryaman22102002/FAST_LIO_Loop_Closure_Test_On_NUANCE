@@ -22,7 +22,7 @@ We collected data using the NUANCE autonomous car of Northeastern University. We
 <Insert image of NUANCE>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eced6f9f-d56f-4292-8195-7232eff80e6d">
+  <img width="500" src="https://github.com/user-attachments/assets/eced6f9f-d56f-4292-8195-7232eff80e6d">
 </p>
 
 
