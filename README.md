@@ -1,4 +1,4 @@
-# FAST_LIO_ON_NUANCE
+# FAST-LIO Loop Closure Test on NUANCE
 
 This was our final project for the EECE 5554 (Robotics Sensing and Navigation) course at Northeastern University. <br>
 
