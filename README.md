@@ -7,8 +7,10 @@ This was our final project for the EECE 5554 (Robotics Sensing and Navigation) c
 We collected data using the NUANCE autonomous car of Northeastern University. We utilized the Ouster 3D Lidar (OS1-64), the VectorNav IMU (VN-100), and the GPS sensors of the car. <br>
 
 #### The Ouster 3D Lidar (OS1-64)
+![ouster_os1_8](https://github.com/user-attachments/assets/f553b2bb-72e5-4a88-a92e-45fde9e119f0)
 
 #### The VectorNav IMU (VN-100)
+![vn-100-axes](https://github.com/user-attachments/assets/79db7fdc-5c31-4906-9c84-c9fcfa1362a9)
 
 #### The NUANCE autonomous car
 <Insert image of NUANCE>
