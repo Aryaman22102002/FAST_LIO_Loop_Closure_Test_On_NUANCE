@@ -92,7 +92,7 @@ We would also like to thank Northeastern University for providing us with the NU
 - Aryaman Shardul - lnu.arya@northeastern.edu
 - Jaykumar Goswami - goswami.j@northeastern.edu
 - Jake Ross -
-- Rongxuan Zhou - 
+- Rongxuan Zhou - zhou.rongx@northeastern.edu
 
 
 
