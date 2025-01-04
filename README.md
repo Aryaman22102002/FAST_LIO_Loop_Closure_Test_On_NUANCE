@@ -43,7 +43,7 @@ Hence, we made use of FAST-LIO LC. It is an open-source repository that has loop
 
 ## Results
 
-For the Results and problems that we faced, you can check out our presentaion PDF named _**"Project_Presentation.pdf"**_ in the repository :)
+For the Results and problems that we faced, you can check out our presentaion PDF named **"Project_Presentation.pdf"** in the repository.
 
 ## The Custom_Scripts Folder
 Included in this repository is a Custom_Scripts folder used to plot the the gps data from NUANCE onto a satelite map image covering the area data was collected. We have provided a brief description of what each script's function purpose is: 
