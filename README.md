@@ -23,7 +23,7 @@ We drove around Boston for about 10 minutes to collect the data. While collectin
 
 
 
-This is the link to our dataset  - https://drive.google.com/drive/folders/1GNqsowswBNSMr-d3rEnTFEqyhZRcBWLL?usp=sharing <br>
+This is the link to our dataset - https://drive.google.com/file/d/1fpwFDyM8jiKTvpuVPF6OtJXaFg9kRt9O/view?usp=sharing <br>
 
 
 ## Aim of the project
